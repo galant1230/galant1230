@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀
 
 ### 🌱 About Me
 - 🌱 I’m currently learning  **Communication**, **IoT**, **Machine Learning**
-- 👨‍💻 All of my projects are available at https://galant1230.github.io/
+- 👨‍💻 All of my projects are available at [https://galant1230.github.io/](https://github.com/galant1230/galant1230)
 - 📄 View My Resume https://drive.google.com/file/d/1UO5YQgksiw_eCc51lV06w2RnaXL5LGe2/view?usp=drive_link
 
 ## 📄 Know About My Experiences
