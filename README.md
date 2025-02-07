@@ -9,8 +9,10 @@ Welcome to my GitHub profile! 🚀
 
 
 ## 📄 Know About My Experiences
-- 🎓 **Education**: Master's student developed an **SVD-based positioning algorithm**, specializing in                       **IoT** and **Positioning Algorithms**.
-- 🔬 **Research**: Improving Localization Techniques and Outlier Detection Based on Singular Value                           Decomposition and Ultra-Wideband Technology
+- 🎓 **Education**: Master's student developed an **SVD-based positioning algorithm**, specializing in
+  **IoT** and **Positioning Algorithms**.
+- 🔬 **Research**: Improving Localization Techniques and Outlier Detection Based on Singular Value
+  Decomposition and Ultra-Wideband Technology
 - 🎤 **Conference**:
   - Presented research on **Improve Location Techniques Based on Singular Value Decomposition** at CACS      2024.
   - Research paper available on https://drive.google.com/file/d/1zl-DV2Sw_BBLKJOkkXfOiuub6cPhH4jO/view?usp=drive_link
