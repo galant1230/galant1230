@@ -3,14 +3,17 @@
 Welcome to my GitHub profile! 🚀
 
 ### 🌱 About Me
-- 🌱 I’m currently learning  **Communication**, **IoT**, **ML**
+- 🌱 I’m currently learning  **Communication**, **IoT**, **Machine Learning**
 - 👨‍💻 All of my projects are available at https://galant1230.github.io/
 - 📄 View My Resume https://drive.google.com/file/d/1UO5YQgksiw_eCc51lV06w2RnaXL5LGe2/view?usp=drive_link
 
 
 ## 📄 Know About My Experiences
-- 🎓 **Education**: Master's student developed an **SVD-based positioning algorithm**, specializing in
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**IoT** and **Positioning Algorithms**.
+- 🎓 **Education**  
+  - M.S. in Communication Engineering, NTU. Developed an **SVD-based positioning algorithm**,
+    specializing in **IoT** and **Positioning Algorithms**. 
+  - B.S. in Communication Engineering, NCU. Applied **MCFF (Mel Cepstral Feature Fusion)** for **speech      recognition**, enhancing feature extraction and classification accuracy.   
+
 - 🔬 **Research**: Improving Localization Techniques and Outlier Detection Based on Singular Value
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decomposition and Ultra-Wideband Technology
 - 🎤 **Conference**:
