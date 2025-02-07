@@ -7,18 +7,21 @@ Welcome to my GitHub profile! 🚀
 - 👨‍💻 All of my projects are available at https://galant1230.github.io/
 - 📄 View My Resume https://drive.google.com/file/d/1UO5YQgksiw_eCc51lV06w2RnaXL5LGe2/view?usp=drive_link
 
-
 ## 📄 Know About My Experiences
 - 🎓 **Education**  
-  - M.S. in Communication Engineering, NTU. Developed an **SVD-based positioning algorithm**,
-    specializing in **IoT** and **Positioning Algorithms**. 
-  - B.S. in Communication Engineering, NCU. Applied **MCFF (Mel Cepstral Feature Fusion)** for **speech      recognition**, enhancing feature extraction and classification accuracy.   
+  - M.S. in Communication Engineering, NTU. GPA: 4.11/4.3
+  - B.S. in Communication Engineering, NCU. GPA: 4.04/4.3
 
-- 🔬 **Research**: Improving Localization Techniques and Outlier Detection Based on Singular Value
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decomposition and Ultra-Wideband Technology
+- 🔬 **Research**  
+  - Improving **Localization Techniques and Outlier Detection** based on **Singular Value Decomposition
+    (SVD)** and **Ultra-Wideband (UWB) Technology**. 
+  - Applied **MCFF (Mel Cepstral Feature Fusion)** for **speech recognition**, enhancing feature
+    extraction and classification accuracy. 
+
 - 🎤 **Conference**:
   - Presented research on **Improve Location Techniques Based on Singular Value Decomposition** at CACS      2024.
-  - Research paper available on https://drive.google.com/file/d/1zl-DV2Sw_BBLKJOkkXfOiuub6cPhH4jO/view?usp=drive_link
+  - Research paper available on
+    https://drive.google.com/file/d/1zl-DV2Sw_BBLKJOkkXfOiuub6cPhH4jO/view?usp=drive_link
 
 
 ### 📫 How to reach me
