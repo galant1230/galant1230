@@ -9,8 +9,8 @@ Welcome to my GitHub profile! 🚀
 
 ## 📄 Know About My Experiences
 - 🎓 **Education**  
-  - M.S. in Communication Engineering, NTU. GPA: 4.11/4.3
-  - B.S. in Communication Engineering, NCU. GPA: 4.04/4.3
+  - M.S. in Graduate Institute of Communication Engineering, National Taiwan University. GPA: 4.11/4.3
+  - B.S. in Communication Engineering, National Central University. GPA: 4.04/4.3
 
 - 🔬 **Research**  
   - Improving **Localization Techniques and Outlier Detection** based on **Singular Value Decomposition
