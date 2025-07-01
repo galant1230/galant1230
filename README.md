@@ -18,10 +18,10 @@ Welcome to my GitHub profile! 🚀
   - Applied **MCFF (Mel Cepstral Feature Fusion)** for **speech recognition**, enhancing feature
     extraction and classification accuracy. 
 
-- 🎤 **Conference**:
-  - Presented research on **Improve Location Techniques Based on Singular Value Decomposition** at CACS      2024.
-  - Research paper available on
-    https://drive.google.com/file/d/1zl-DV2Sw_BBLKJOkkXfOiuub6cPhH4jO/view?usp=drive_link
+- 🎤 **Conference / Journal Presentation**:
+  - Presented the paper **"Enhanced UAV Localization and Outlier Detection Using SVD-Enhanced UWB for Bridge Inspections"** at **CACS 2024**.
+  - The paper is now published in the **IEEE Internet of Things Journal**.  
+    C.-L. Tsai and R.-B. Wu, *"Enhanced UAV Localization and Outlier Detection Using SVD-Enhanced UWB for Bridge Inspections,"* in **IEEE Internet of Things Journal**, doi: [10.1109/JIOT.2025.3571543
 
 
 ### 📫 How to reach me
