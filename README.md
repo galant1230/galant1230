@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀
 ### 🌱 About Me
 - 🌱 I’m currently learning  **Communication**, **IoT**, **Machine Learning**
 - 👨‍💻 All of my projects are available at [https://galant1230.github.io/](https://github.com/galant1230/galant1230)
-- 📄 View My Resume https://drive.google.com/file/d/1UO5YQgksiw_eCc51lV06w2RnaXL5LGe2/view?usp=drive_link
+- 📄 View My Resume [https://drive.google.com/file/d/1UO5YQgksiw_eCc51lV06w2RnaXL5LGe2/view?usp=drive_link](https://drive.google.com/file/d/1ssv_Pn3O0chsMSOiz0j7ijk1u9cfVLyd/view?usp=sharing)
 
 ## 📄 Know About My Experiences
 - 🎓 **Education**  
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! 🚀
 - 🎤 **Conference / Journal Presentation**:
   - Presented the paper **"Enhanced UAV Localization and Outlier Detection Using SVD-Enhanced UWB for Bridge Inspections"** at **CACS 2024**.
   - The paper is now published in the **IEEE Internet of Things Journal**.  
-    C.-L. Tsai and R.-B. Wu, *"Enhanced UAV Localization and Outlier Detection Using SVD-Enhanced UWB for Bridge Inspections,"* in **IEEE Internet of Things Journal**, doi: [10.1109/JIOT.2025.3571543
+    C.-L. Tsai and R.-B. Wu, *"Enhanced UAV Localization and Outlier Detection Using SVD-Enhanced UWB for Bridge Inspections,"* in **IEEE Internet of Things Journal**, doi: [10.1109/JIOT.2025.3571543]
 
 
 ### 📫 How to reach me
