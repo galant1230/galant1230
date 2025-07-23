@@ -6,6 +6,7 @@ Welcome to my GitHub profile! 🚀
 - 🌱 I’m currently learning  **Communication**, **IoT**, **Machine Learning**
 - 👨‍💻 All of my projects are available at [https://galant1230.github.io/](https://github.com/galant1230/galant1230)
 - 📄 View My Resume [https://drive.google.com/file/d/1UO5YQgksiw_eCc51lV06w2RnaXL5LGe2/view?usp=drive_link](https://drive.google.com/file/d/1ssv_Pn3O0chsMSOiz0j7ijk1u9cfVLyd/view?usp=sharing)
+- 📄 Chinese Resume [https://drive.google.com/file/d/1CrxIAaMUSr7oSl_aB92EgxxWcLq1VVfJ/view?usp=sharing](https://drive.google.com/file/d/1CrxIAaMUSr7oSl_aB92EgxxWcLq1VVfJ/view?usp=sharing)
 
 ## 📄 Know About My Experiences
 - 🎓 **Education**  
