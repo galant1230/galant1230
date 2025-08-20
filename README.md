@@ -22,7 +22,7 @@ Welcome to my GitHub profile! 🚀
 - 🎤 **Conference / Journal Presentation**:
   - Presented the paper **"Enhanced UAV Localization and Outlier Detection Using SVD-Enhanced UWB for Bridge Inspections"** at **CACS 2024**.
   - The paper is now published in the **IEEE Internet of Things Journal**.  
-    C.-L. Tsai and R.-B. Wu, *"Enhanced UAV Localization and Outlier Detection Using SVD-Enhanced UWB for Bridge Inspections,"* in **IEEE Internet of Things Journal**, doi: [10.1109/JIOT.2025.3571543]
+    C.-L. Tsai and R.-B. Wu, **"Enhanced UAV Localization and Outlier Detection Using SVD-Enhanced UWB for Bridge Inspections,"** in **IEEE Internet of Things Journal**, doi: [10.1109/JIOT.2025.3571543]
 
 
 ### 📫 How to reach me
